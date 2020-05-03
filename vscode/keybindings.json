@@ -1,0 +1,23 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+d",
+        "command": "editor.action.deleteLines",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+alt+l",
+        "command": "editor.action.transformToLowercase"
+    },
+    {
+        "key": "ctrl+alt+u",
+        "command": "editor.action.transformToUppercase"
+    },
+    {
+        "key": "ctrl+alt+d",
+        "command": "editor.action.duplicateSelection"
+    },
+    { "key": "ctrl+alt+-", "command": "workbench.action.terminal.focus"},
+
+    { "key": "ctrl+alt+-", "command": "workbench.action.focusActiveEditorGroup", "when": "terminalFocus"}
+]

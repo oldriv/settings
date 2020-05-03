@@ -1,0 +1,23 @@
+{
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Hasklig",
+    "editor.cursorBlinking": "phase",
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 2,
+    "matlab.mlintpath": "C:\\Program Files\\MATLAB\\R2018a\\bin\\win64\\mlint.exe",
+    "git.confirmSync": false,
+    "editor.largeFileOptimizations": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.mouseWheelZoom": true,
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.colorTheme": "One Monokai",
+}
