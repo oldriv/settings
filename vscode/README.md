@@ -1,0 +1,1 @@
+On windows, use `upater-windows.ps1` to copy VS Code settings into the current location
